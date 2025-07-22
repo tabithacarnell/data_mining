@@ -14,7 +14,7 @@ Exploratory data analysis, dimensionality reduction, and basic machine learning 
 - Matplotlib & Seaborn for univariate and multivariate visualisations  
 - PCA (with and without standardisation)  
 - Distance matrix visualisation using heatmaps  
-- Cube modeling with SQLite and JSON  
+- Cube modeling with SQL (SQLAlchemy) and JSON  
 - 1-NN classification using Euclidean distance   
 
 *Notebook:* `DataMining_Coursework1.ipynb`
