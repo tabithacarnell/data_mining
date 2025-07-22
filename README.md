@@ -1,4 +1,4 @@
-# Data Mining Coursework – MSc Data Science & AI
+# Data Mining
 
 This repository showcases two coursework projects submitted for the *Data Mining for AI and Data Science* module at Queen Mary University of London. Each task focuses on applying data mining techniques to real-world data using Python, with an emphasis on outlier detection, document clustering, data extraction, and dimensionality reduction through practical coding.
 
